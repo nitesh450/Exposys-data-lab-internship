@@ -1,6 +1,4 @@
-# Bulk_Mail_Dispatcher-
-This is web development project to send bulk mail.
-
-This is a website to send bulk mail using CSV file.
-
-This is developed in python using flask, smtplib, csv, re and pandas library.
+Design and Develop Website Mass-Mail Dispatcher .
+The purpose of this is to provide a tool to control and send emails to a vast number of recipients.
+The application will list and sort out all the valid and invalid emails detected by the application allowing the users to more
+readily send emails as per user convenience.
